@@ -72,3 +72,5 @@ This mod currently only affects gold and dreamdust.
 Stardust may be added later depending on game updates.
 
 Compatible with game version r.1.0.6.2_s (September 2025).
+
+This Mod has not been tested in Co-op.
