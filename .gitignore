@@ -1,0 +1,13 @@
+# Ignore build folders
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore compiled zips (we’ll upload these separately as Releases)
+*.zip
