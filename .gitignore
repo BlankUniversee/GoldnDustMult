@@ -9,5 +9,5 @@ obj/
 *.tmp
 *.log
 
-# Ignore compiled zips (we’ll upload these separately as Releases)
+# Ignore compiled zips
 *.zip
